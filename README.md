@@ -73,6 +73,11 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 
 **Deliverable 2 Results**
 
+Wikipedia Movies Dataframe:
+
+![Deliverable 2 - wiki_movies_df](https://user-images.githubusercontent.com/92111396/145040388-480992b3-4e9f-4304-b410-504078d73c79.PNG)
+
+https://github.com/mcbride249/Movies-ETL/tree/main/Resources/Deliverable%202%20Images
 
 
 **Deliverable 3: Extract and Transform the Kaggle Data **
@@ -82,9 +87,44 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 
 **Deliverable 3 Results**
 
+Movies With Ratings Dataframe:
+
+![Deliverable 3 - movies_with_ratings_df](https://user-images.githubusercontent.com/92111396/145041119-6ec1a786-927b-4223-998c-f9766e7ac7a7.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%203%20Images/Deliverable%203%20-%20movies_with_ratings_df.PNG
+
+
+Movies Dataframe:
+
+![Deliverable 3 - movies_df](https://user-images.githubusercontent.com/92111396/145041138-f9064539-6021-4ab8-a033-33b0b6d8101d.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%203%20Images/Deliverable%203%20-%20movies_df.PNG
+
 
 **Deliverable 4: Create the Movie Database **
 
 Use your knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 
 **Deliverable 4 Results**
+
+Data to Databse Runtime:
+
+![ETL_creata_database - run time](https://user-images.githubusercontent.com/92111396/145041914-f8bf0375-4dd5-4de6-894b-478e771ece91.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%204%20Images/ETL_creata_database%20-%20run%20time.PNG
+
+
+Movie Query:
+
+![movies_query](https://user-images.githubusercontent.com/92111396/145041719-c76a6159-7455-4067-b21e-6a8992a6e94e.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/movies_query.PNG
+
+
+Ratings Query:
+
+![ratings_query](https://user-images.githubusercontent.com/92111396/145041712-2bedff92-f9c3-42fd-8d80-3667dd9e8865.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/ratings_query.PNG
+
+
