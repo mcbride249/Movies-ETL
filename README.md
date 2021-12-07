@@ -23,6 +23,7 @@ Extract the Wikipedia and Kaggle data from their respective files, transform the
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%201%20Images/Goal%201%20-%20Wikipedia%20Image.PNG
 
 
+
 ![Goal 1 - Kaggle Image](https://user-images.githubusercontent.com/92111396/145044334-44169673-3b29-4480-86dc-87cfe06025b0.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%201%20Images/Goal%201%20-%20Kaggle%20Image.PNG
