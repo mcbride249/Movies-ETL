@@ -44,6 +44,28 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, w
 **Deliverable 1 Results**
 
 
+Wikpedia Movies Dataframe:
+
+![wiki_movies_df](https://user-images.githubusercontent.com/92111396/145039420-e3a0afc7-6024-4ea6-a579-549a98890ab2.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20Images/wiki_movies_df.PNG
+
+
+Kaggle Metadata Dataframe:
+
+![kaggle_metadata](https://user-images.githubusercontent.com/92111396/145039630-ef44e1fa-8714-4644-890d-c9a027fb4914.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20Images/kaggle_metadata.PNG
+
+
+Ratings Dataframe:
+
+![ratings_df](https://user-images.githubusercontent.com/92111396/145039753-da17c56e-1196-40ee-ad50-f67b87ad190a.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20Images/ratings_df.PNG
+
+
+
 **Deliverable 2: Extract and Transform the Wikipedia Data**
 
 Using your knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Wikipedia data so you can merge it with the Kaggle metadata.
