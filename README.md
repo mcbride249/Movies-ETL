@@ -69,7 +69,7 @@ The purpose of this challenge was to extract and transform real world movie data
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Deliverable 1: Write an ETL Function to Read Three Data Files **
+**Deliverable 1: Write an ETL Function to Read Three Data Files**
 
 Using your knowledge of Python, Pandas, the ETL process, and code refactoring, write a function that reads in the three data files and creates three separate DataFrames.
 
@@ -83,6 +83,7 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, w
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20Images/wiki_movies_df.PNG
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Kaggle Metadata Dataframe:**
 
@@ -90,6 +91,7 @@ https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20I
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20Images/kaggle_metadata.PNG
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Ratings Dataframe:**
 
@@ -115,7 +117,7 @@ https://github.com/mcbride249/Movies-ETL/tree/main/Resources/Deliverable%202%20I
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Deliverable 3: Extract and Transform the Kaggle Data **
+**Deliverable 3: Extract and Transform the Kaggle Data**
 
 Using your knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. Then, you’ll merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the movies_df DataFrame. Finally, you’ll merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df.
 
@@ -129,6 +131,7 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%203%20Images/Deliverable%203%20-%20movies_with_ratings_df.PNG
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Movies Dataframe:**
 
@@ -138,7 +141,7 @@ https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%203%20I
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Deliverable 4: Create the Movie Database **
+**Deliverable 4: Create the Movie Database**
 
 Use your knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 
@@ -152,6 +155,7 @@ Use your knowledge of Python, Pandas, the ETL process, code refactoring, and Pos
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%204%20Images/ETL_creata_database%20-%20run%20time.PNG
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Movie Query:**
 
@@ -159,6 +163,7 @@ https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%204%20I
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/movies_query.PNG
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Ratings Query:**
 
