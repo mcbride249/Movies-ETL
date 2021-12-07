@@ -22,13 +22,13 @@ Extract the Wikipedia and Kaggle data from their respective files, transform the
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%201%20Images/Goal%201%20-%20Wikipedia%20Image.PNG
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Goal 1 - Kaggle Image](https://user-images.githubusercontent.com/92111396/145044334-44169673-3b29-4480-86dc-87cfe06025b0.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%201%20Images/Goal%201%20-%20Kaggle%20Image.PNG
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. Clean the Wikpedia, Kaggle and Ratings data and merge the metadata.**
 
@@ -36,20 +36,19 @@ https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%201%20Images/G
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%202%20Images/Goal%202%20-%20Image%201.PNG
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Goal 2 - Image 2](https://user-images.githubusercontent.com/92111396/145044637-ec8ca1ea-865c-408b-8047-550e537dd48d.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%202%20Images/Goal%202%20-%20Image%202.PNG
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3. Create a database and load the data into it.**
 
 ![Goal 3 - Image 1](https://user-images.githubusercontent.com/92111396/145044733-c0f46277-2e7f-43c5-82c2-aabc13f57f82.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%203%20Images/Goal%203%20-%20Image%201.PNG
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
