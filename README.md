@@ -16,11 +16,35 @@ Extract the Wikipedia and Kaggle data from their respective files, transform the
 
 **##Summary**
 
-1. Extract the Wikipedia Movies JSON and the Kaggle Data.
+**1. Extract the Wikipedia Movies JSON and the Kaggle Data.**
 
-2. Clean the Wikpedia, Kaggle and Ratings data and merge the metadata.
+![Goal 1 - Wikipedia Image](https://user-images.githubusercontent.com/92111396/145044346-c7153dab-6344-44d7-9b55-221ae3c31400.PNG)
 
-3. Create a database and load the data into it.
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%201%20Images/Goal%201%20-%20Wikipedia%20Image.PNG
+
+
+![Goal 1 - Kaggle Image](https://user-images.githubusercontent.com/92111396/145044334-44169673-3b29-4480-86dc-87cfe06025b0.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%201%20Images/Goal%201%20-%20Kaggle%20Image.PNG
+
+
+**2. Clean the Wikpedia, Kaggle and Ratings data and merge the metadata.**
+
+![Goal 2 - Image 1](https://user-images.githubusercontent.com/92111396/145044623-20714675-dc21-46ab-aac2-a7c8a38f9d95.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%202%20Images/Goal%202%20-%20Image%201.PNG
+
+
+![Goal 2 - Image 2](https://user-images.githubusercontent.com/92111396/145044637-ec8ca1ea-865c-408b-8047-550e537dd48d.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%202%20Images/Goal%202%20-%20Image%202.PNG
+
+
+**3. Create a database and load the data into it.**
+
+![Goal 3 - Image 1](https://user-images.githubusercontent.com/92111396/145044733-c0f46277-2e7f-43c5-82c2-aabc13f57f82.PNG)
+
+https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Goal%203%20Images/Goal%203%20-%20Image%201.PNG
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -49,21 +73,21 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, w
 
 **Deliverable 1 Results**
 
-Wikpedia Movies Dataframe:
+**Wikpedia Movies Dataframe:**
 
 ![wiki_movies_df](https://user-images.githubusercontent.com/92111396/145039420-e3a0afc7-6024-4ea6-a579-549a98890ab2.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20Images/wiki_movies_df.PNG
 
 
-Kaggle Metadata Dataframe:
+**Kaggle Metadata Dataframe:**
 
 ![kaggle_metadata](https://user-images.githubusercontent.com/92111396/145039630-ef44e1fa-8714-4644-890d-c9a027fb4914.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%201%20Images/kaggle_metadata.PNG
 
 
-Ratings Dataframe:
+**Ratings Dataframe:**
 
 ![ratings_df](https://user-images.githubusercontent.com/92111396/145039753-da17c56e-1196-40ee-ad50-f67b87ad190a.PNG)
 
@@ -79,7 +103,7 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 
 **Deliverable 2 Results**
 
-Wikipedia Movies Dataframe:
+**Wikipedia Movies Dataframe:**
 
 ![Deliverable 2 - wiki_movies_df](https://user-images.githubusercontent.com/92111396/145040388-480992b3-4e9f-4304-b410-504078d73c79.PNG)
 
@@ -95,14 +119,14 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 
 **Deliverable 3 Results**
 
-Movies With Ratings Dataframe:
+**Movies With Ratings Dataframe:**
 
 ![Deliverable 3 - movies_with_ratings_df](https://user-images.githubusercontent.com/92111396/145041119-6ec1a786-927b-4223-998c-f9766e7ac7a7.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%203%20Images/Deliverable%203%20-%20movies_with_ratings_df.PNG
 
 
-Movies Dataframe:
+**Movies Dataframe:**
 
 ![Deliverable 3 - movies_df](https://user-images.githubusercontent.com/92111396/145041138-f9064539-6021-4ab8-a033-33b0b6d8101d.PNG)
 
@@ -118,21 +142,21 @@ Use your knowledge of Python, Pandas, the ETL process, code refactoring, and Pos
 
 **Deliverable 4 Results**
 
-Data to Databse Runtime:
+**Data to Databse Runtime:**
 
 ![ETL_creata_database - run time](https://user-images.githubusercontent.com/92111396/145041914-f8bf0375-4dd5-4de6-894b-478e771ece91.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/Deliverable%204%20Images/ETL_creata_database%20-%20run%20time.PNG
 
 
-Movie Query:
+**Movie Query:**
 
 ![movies_query](https://user-images.githubusercontent.com/92111396/145041719-c76a6159-7455-4067-b21e-6a8992a6e94e.PNG)
 
 https://github.com/mcbride249/Movies-ETL/blob/main/Resources/movies_query.PNG
 
 
-Ratings Query:
+**Ratings Query:**
 
 ![ratings_query](https://user-images.githubusercontent.com/92111396/145041712-2bedff92-f9c3-42fd-8d80-3667dd9e8865.PNG)
 
